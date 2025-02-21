@@ -1,8 +1,7 @@
 <!-- 🚀 Advanced GitHub Profile with HD Effects -->
 
-<!-- Animated Banner with 3D Background -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sayedmahdiii/sayedmahdiii/main/hd-banner.gif" alt="Sayed Mahdi | AI & Data Science" width="100%" />
+  <img src="https://raw.githubusercontent.com/sayedmahdiii/sayedmahdiii/main/hd-banner.gif" alt="Sayed Mahdi | AI & Data Science" width="100%"/>
 </p>
 
 # 🌌 **Welcome to My Universe**  
@@ -14,40 +13,7 @@
 
 ---
 
-## 🎨 **HD Themed Design with Particle.js**
-```html
-<!-- Add Particle.js for Floating Stars Effect -->
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-<div id="particles-js"></div>
-<style>
-  body {
-    background: radial-gradient(circle, #0f2027, #203a43, #2c5364);
-    color: white;
-    font-family: 'Poppins', sans-serif;
-  }
-  h1, h2, h3 {
-    text-shadow: 2px 2px 10px #f7b801;
-  }
-  #particles-js {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-  }
-</style>
-<script>
-  particlesJS("particles-js", {
-    "particles": {
-      "number": { "value": 50 },
-      "size": { "value": 3 }
-    }
-  });
-</script>
-```
-
----
-
-## 🔥 **Who Am I?**
+## 🎨 **Who Am I?**
 - 🧠 AI Enthusiast, crafting intelligent solutions  
 - 📊 Passionate about **Machine Learning, NLP, Big Data**  
 - 🌎 Exploring **Cloud (AWS, GCP) & Scalable AI models**  
@@ -55,14 +21,14 @@
 
 ---
 
-## 💻 **Tech Stack with Glowing Icons**
+## 💻 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,aws,tensorflow,pytorch,docker,git" style="filter: drop-shadow(0px 0px 10px #fff);"/>
+  <img src="https://skillicons.dev/icons?i=python,r,sql,aws,tensorflow,pytorch,docker,git"/>
 </p>
 
 ---
 
-## 📊 **GitHub Stats & Live Contributions**
+## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedmahdiii&theme=radical&hide_border=true"/>
   <br>
@@ -73,44 +39,26 @@
 
 ---
 
-## 🚀 **Featured Projects with Neon Glow Cards**
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🔹 Traffic Image Processing</h3>
-        <p>YOLOv8 Feature Extraction & Object Detection.</p>
-      </td>
-      <td>
-        <h3>🌁 AI Weather API</h3>
-        <p>Flask + Docker + Real-time Weather Analysis.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>📝 NLP Review Classifier</h3>
-        <p>LSTM, BERT-based Sentiment Analysis Model.</p>
-      </td>
-      <td>
-        <h3>📊 Advanced Data Dashboard</h3>
-        <p>Interactive BI Dashboards with PowerBI & Tableau.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🚀 **Featured Projects**
+| Project | Description |
+|---------|------------|
+| 🔹 **Traffic Image Processing** | YOLOv8 Feature Extraction & Object Detection |
+| 🌁 **AI Weather API** | Flask + Docker + Real-time Weather Analysis |
+| 📝 **NLP Review Classifier** | LSTM, BERT-based Sentiment Analysis |
+| 📊 **Advanced Data Dashboard** | Interactive BI Dashboards with PowerBI & Tableau |
 
 ---
 
-## 🌐 **Connect With Me (Glowing Buttons)**
+## 🌐 **Connect With Me**
 <p align="center">
   <a href="mailto:Sayedmahdi0411@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="filter: drop-shadow(0px 0px 10px #fff);"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sayed-mahdi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="filter: drop-shadow(0px 0px 10px #fff);"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/sayedmahdiii" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="filter: drop-shadow(0px 0px 10px #fff);"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 

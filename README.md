@@ -1,4 +1,6 @@
-<!-- Animated Banner with HD Background -->
+<!-- 🚀 Advanced GitHub Profile with HD Effects -->
+
+<!-- Animated Banner with 3D Background -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sayedmahdiii/sayedmahdiii/main/hd-banner.gif" alt="Sayed Mahdi | AI & Data Science" width="100%" />
 </p>
